@@ -2,8 +2,7 @@
 # MHW-impacts-on-Kelp-Populations
 This repository contains the code and workflows used to analyse the relationship between marine heatwaves (MHWs) and long-term observational kelp records across multiple *Ecklonia radiata* populations.
 
-The raw datasets used in this project cannot be redistributed here due to file-size constraints.
-However, all datasets are freely available, and the instructions below explain exactly how to download them and where to place the files. Instructions of downloading and using the raw datasets are provided in `rawdata_download_use.md`.
+Due to their size, some raw datasets must be accessed directly from the providers. However, all datasets are freely available, and the instructions below explain exactly how to download them and where to place the files. Instructions of downloading and using the raw datasets are provided in `rawdata_download_use.md`.
 MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 
 | Raw data | Source |
