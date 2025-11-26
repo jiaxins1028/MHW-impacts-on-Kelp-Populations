@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/759275381.svg)](https://doi.org/10.5281/zenodo.15009284)
 # MHW-impacts-on-Kelp-Populations
-Data and Code for the research of the relationship between marine heatwave (MHW) and long-term observational kelp in different populations.
+Data and Code for the research of the relationship between marine heatwave (MHW) and long-term observational kelp in different populations. MHW calculation uses https://github.com/coecms/xmhw.
 
-| Data | Source |
+| Raw data | Source |
 |-----:|---------------|
 | Long-term Reef Monitoring Program kelp cover | Australia’s National Reef Monitoring Network. Raw data and instructions can be accessed from https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/ec424e4f-0f55-41a5-a3f2-726bc4541947 |
 | Long-term observations of Ecklonia canopy cover in Kalbarri | Wernberg et al. (2016a)|
@@ -34,7 +34,7 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 | `mhw_kelp_detection.ipynb` | Calculating summer time temperature and MHW metrics for each site and year of kelp surveys, conducting GLMM analysis |
 | `mhw_kelp_kalbarri_detection.ipynb` | Calculating summer time temperature and MHW metrics for the location-averaged kelp surveys in Kalbarri (Wernberg et al. 2016a), conducting GLM analysis |
 | `mhw_kelp_timeseries.ipynb` | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories |
-| `model_3pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Plotting the GLMM results, together with the SST climatological means across the OBIS distribution of Ecklonia radiata |
+| `model_4pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Plotting the GLMM results |
 | `downsample_sensitivity_test.ipynb` | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
 | `tpc_review.R` | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024) |
 
@@ -42,8 +42,6 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 Britton, D, Layton, C, Mundy, CN, Brewer, EA, Gaitan-Espitia, JD, Beardall, J, Raven, JA & Hurd, CL 2024, 'Cool-edge populations of the kelp Ecklonia radiata under global ocean change scenarios: strong sensitivity to ocean warming but little effect of ocean acidification', Proc Biol Sci, vol. 291, no. 2015, p. 20232253.
 
 Chamberlain, M. A., Oke, P. R., Fiedler, R. A. S., Beggs, H. M., Brassington, G. B., & Divakaran, P. (2021). Next generation of Bluelink ocean reanalysis with multiscale data assimilation: BRAN2020. Earth Syst. Sci. Data, 13(12), 5663-5688.
-
-Hobday, A. J., Alexander, L. V., Perkins, S. E., Smale, D. A., Straub, S. C., Oliver, E. C. J., Benthuysen, J. A., Burrows, M. T., Donat, M. G., Feng, M., Holbrook, N. J., Moore, P. J., Scannell, H. A., Sen Gupta, A., & Wernberg, T. (2016). A hierarchical approach to defining marine heatwaves. Progress in Oceanography, 141, 227-238. https://doi.org/https://doi.org/10.1016/j.pocean.2015.12.014 
 
 Huang, B., Liu, C., Banzon, V., Freeman, E., Graham, G., Hankins, B., Smith, T., & Zhang, H.-M. (2021). Improvements of the Daily Optimum Interpolation Sea Surface Temperature (DOISST) Version 2.1. Journal of Climate, 34(8), 2923-2939. 
 
