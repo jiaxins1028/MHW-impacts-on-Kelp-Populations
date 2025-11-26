@@ -14,7 +14,7 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 ## Data files
 | File | Description |
 |-----:|---------------|
-| er_atrc_id.csv | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at survey_id level after quality control. The identical survey_id represents a survey conducted on the same transect.  |
+| er_atrc_id.csv | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at survey_id level after quality control. The identical survey_id represents a survey conducted on the same transect. (Output of `clean_kelp_data_surveyid.R`) |
 | er_3pop_site.csv | Dataset of Ecklonia radiata under averaged at site level in Jurien, Jervis Bay, and Maria Island |
 | 4pop_change_rawdata.csv | Dataset of the change in canopy cover of Ecklonia radiata at each site of the four locations, including the corresponding MHW metrics (Hobday et al., 2016)|
 | OBIS_ER_distribution.csv | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST|
