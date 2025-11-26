@@ -33,6 +33,7 @@ alg.rls<-read.csv("er_atrc.csv") #import seaweed data
 ## convert to percentage number
 alg.rls <- mutate(alg.rls,percentage=round(total/50*100,2))  
 str(alg.rls) 
+MI.atrc<- alg.rls %>% filter(program =="ATRC") 
 
 #convert characters to factors
 MI.atrc$location<-as.factor(MI.atrc$location)
@@ -104,5 +105,6 @@ quad.loca <-ddply(quad.site,c("location","survey_year","taxon"),summarise, surve
 
 # neat data into csv ------------------------------------------------------
 write.table(quad.id, "kelp/er_atrc_id.csv", sep = ",", row.names = FALSE, col.names = TRUE) # change to site if needed
+
 
 
