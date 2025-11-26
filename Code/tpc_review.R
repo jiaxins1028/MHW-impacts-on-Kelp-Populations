@@ -109,8 +109,8 @@ for (i in 1:nrow(unique_location)) {
   lat_i = as.numeric(unique_location[i, "lat"])
   lon_i = as.numeric(unique_location[i, "lon"])
   
-  lat_idx <- which(lat >= lat_i-0.5 & lat <= lat_i+0.5)
-  lon_idx <- which(lon >= lon_i-0.5 & lon <= lon_i+0.5)
+  lat_idx <- which(lat >= lat_i-0.25 & lat <= lat_i+0.25)
+  lon_idx <- which(lon >= lon_i-0.25 & lon <= lon_i+0.25)
   
   # print(paste("Lat indices: ", length(lat_idx)))
   # print(paste("Lon indices: ", length(lon_idx)))
@@ -273,6 +273,7 @@ p2
 
 p_final = p1/p2 + plot_layout(heights = c(3, 1))
 p_final
+
 
 
 
