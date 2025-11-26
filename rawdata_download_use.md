@@ -1,7 +1,5 @@
 ## Downloading Raw Species and Temperature Data
 
-This project uses several large publicly available datasets that cannot be redistributed through this repository due to file size and data provider policies.
-However, all datasets can be freely downloaded from the providers listed below.
 These instructions explain exactly how to obtain the raw data and where to place them.
 
 🌱 1. Kelp Cover Survey Data from Australian National Reef Monitoring Network
@@ -50,3 +48,4 @@ ds.to_netcdf(path = 'OBIS_kelp_sst.nc')
 ```
 
 Files used in: `mhw_kelp_timeseries.ipynb`, `model_4pop.ipynb`, `mhw_kelp_detection.ipynb`, `mhw_kelp_kalbarri_detection.ipynb`
+
