@@ -5,7 +5,8 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 | Data | Source |
 |-----:|---------------|
 | Long-term Reef Monitoring Program kelp cover | Australia’s National Reef Monitoring Network. Raw data and instructions can be accessed from https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/ec424e4f-0f55-41a5-a3f2-726bc4541947 |
-| Thermal performance of Ecklonia radiata | Wernberg et al. (2016) and Britton et al. (2024) |
+| Long-term observations of Ecklonia canopy cover in Kalbarri | Wernberg et al. (2016a)|
+| Thermal performance of Ecklonia radiata | Wernberg et al. (2016b) and Britton et al. (2024) |
 | Occurrence distribution of Ecklonia radiata | Ocean Biodiversity Information System (OBIS). Data access from https://github.com/iobis/robis |
 | Sea surface temperature | High Resolution NOAA Optimum Interpolation 1/4 Degree Daily SST (OISST) Analysis, Version 2.1 (Huang et al. 2021) https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdc:C00844/html |
 | Subsurface ocean temperature | Bluelink Ocean Reanalysis (BRAN2020) avaliable at available at https://doi.org/10.25914/6009627c7af03 (Chamberlain et al. 2021) |
@@ -14,20 +15,21 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 ## Data files
 | File | Description |
 |-----:|---------------|
-| er_atrc_id.csv | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at survey_id level after quality control. The identical survey_id represents a survey conducted on the same transect. (Output of `clean_kelp_data_surveyid.R`) |
-| er_3pop_site.csv | Dataset of Ecklonia radiata under averaged at site level in Jurien, Jervis Bay, and Maria Island |
-| 4pop_change_rawdata.csv | Dataset of the change in canopy cover of Ecklonia radiata at each site of the four locations, including the corresponding MHW metrics (Hobday et al., 2016)|
-| OBIS_ER_distribution.csv | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST|
+| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of Ecklonia radiata at each site of the four locations, including the corresponding MHW metrics (Hobday et al., 2016)|
+| `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST (Output of `model_3pop.ipynb`)|
+| `er_atrc_id.csv` | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at survey_id level after quality control. The identical survey_id represents a survey conducted on the same transect. (Output of `clean_kelp_data_surveyid.R`) |
+| `er_3pop_site.csv` | Dataset of Ecklonia radiata under averaged at site level in Jurien, Jervis Bay, and Maria Island (Output of `clean_kelp_data_surveyid.R`)|
+| `kalbarri_abundance.csv` | Dataset of the location-averaged Ecklonia radiata canopy cover in Kalbarri extracted from Wernberg et al. (2016a) |
 
 ## Code files
 | File | Description |
 |-----:|---------------|
-| clean_kelp_data_survey_id.R | Fixing the recording-only-presence problem of the raw kelp cover data, and averaging the data into survey_id and site level |
-| mhw_kelp_detection.ipynb | Calculating summer time temperature and MHW metrics for each site and year of kelp surveys, conducting GLMM analysis |
-| mhw_kelp_timeseries.ipynb | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories |
-| model_3pop.ipynb | Plotting the GLMM results, together with the SST climatological means across the OBIS distribution of Ecklonia radiata |
-| downsample_sensitivity_test.ipynb | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
-| tpc_review.R | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024) |
+| `clean_kelp_data_survey_id.R` | Fixing the recording-only-presence problem of the raw kelp cover data, and averaging the data into survey_id and site level |
+| `mhw_kelp_detection.ipynb` | Calculating summer time temperature and MHW metrics for each site and year of kelp surveys, conducting GLMM analysis |
+| `mhw_kelp_timeseries.ipynb` | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories |
+| `model_3pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Plotting the GLMM results, together with the SST climatological means across the OBIS distribution of Ecklonia radiata |
+| `downsample_sensitivity_test.ipynb` | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
+| `tpc_review.R` | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024) |
 
 # References
 Britton, D, Layton, C, Mundy, CN, Brewer, EA, Gaitan-Espitia, JD, Beardall, J, Raven, JA & Hurd, CL 2024, 'Cool-edge populations of the kelp Ecklonia radiata under global ocean change scenarios: strong sensitivity to ocean warming but little effect of ocean acidification', Proc Biol Sci, vol. 291, no. 2015, p. 20232253.
@@ -40,4 +42,6 @@ Huang, B., Liu, C., Banzon, V., Freeman, E., Graham, G., Hankins, B., Smith, T.,
 
 Reef Life Survey (RLS); Institute for Marine and Antarctic Studies (IMAS); Parks Victoria; Department of Primary Industries (DPI), New South Wales Government; Parks and Wildlife Tasmania; Department for Environment and Water (DEWNR), South Australia; Department of Biodiversity, Conservation and Attractions (DBCA), Western Australia; Integrated Marine Observing System (IMOS), 2024, IMOS - National Reef Monitoring Network Sub-Facility – Benthic cover data (in situ surveys), database provided, 10/10/2024.
 
-Wernberg, T, de Bettignies, T, Joy, BA & Finnegan, PM 2016, 'Physiological responses of habitat‐forming seaweeds to increasing temperatures', Limnology and Oceanography, vol. 61, no. 6, pp. 2180-2190.
+Wernberg, T, Bennett, S, Babcock, RC, Bettignies, Td, Cure, K, Depczynski, M et al. 2016a. Climate-driven regime shift of a temperate marine ecosystem. Science, 353, 169-172.
+
+Wernberg, T, de Bettignies, T, Joy, BA & Finnegan, PM 2016b, 'Physiological responses of habitat‐forming seaweeds to increasing temperatures', Limnology and Oceanography, vol. 61, no. 6, pp. 2180-2190.
