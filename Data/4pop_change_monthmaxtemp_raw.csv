@@ -1,0 +1,511 @@
+location,site_code,site_name,survey_year,taxon,survey_mean,survey_datetime,survey_change,summer_temp_max,summer_dhd50_max,summer_inten_max
+Maria Island,MIR-S7,Magistrates Point North,1996,Ecklonia radiata,39.4,1/01/1996,0.2,15.55362034,0,-1.071155548
+Maria Island,MIR-S7,Magistrates Point North,1997,Ecklonia radiata,41.8,1/01/1997,2.4,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S7,Magistrates Point North,1998,Ecklonia radiata,30.9,1/01/1998,-10.9,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S7,Magistrates Point North,1999,Ecklonia radiata,30.4,1/01/1999,-0.5,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S7,Magistrates Point North,2000,Ecklonia radiata,37.1,1/01/2000,6.7,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S7,Magistrates Point North,2001,Ecklonia radiata,45.9,1/01/2001,8.8,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S7,Magistrates Point North,2002,Ecklonia radiata,38,1/01/2002,-7.9,17.11838722,0.057689667,0.048845291
+Maria Island,MIR-S7,Magistrates Point North,2004,Ecklonia radiata,24.7,1/01/2004,-13.3,18.60982132,59.51989746,1.628843307
+Maria Island,MIR-S7,Magistrates Point North,2006,Ecklonia radiata,42.4,1/01/2006,17.7,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S7,Magistrates Point North,2008,Ecklonia radiata,32.1,1/01/2008,-10.3,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S7,Magistrates Point North,2009,Ecklonia radiata,45.1,1/01/2009,13,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S7,Magistrates Point North,2010,Ecklonia radiata,52.1,1/01/2010,7,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S7,Magistrates Point North,2012,Ecklonia radiata,34.4,1/01/2012,-17.7,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S7,Magistrates Point North,2013,Ecklonia radiata,39.7,1/01/2013,5.3,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S7,Magistrates Point North,2014,Ecklonia radiata,37.3,1/01/2014,-2.4,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S7,Magistrates Point North,2015,Ecklonia radiata,25.3,1/01/2015,-12,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S7,Magistrates Point North,2016,Ecklonia radiata,38,1/01/2016,12.7,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S7,Magistrates Point North,2017,Ecklonia radiata,10.9,1/01/2017,-27.1,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S7,Magistrates Point North,2018,Ecklonia radiata,27.8,1/01/2018,16.9,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S7,Magistrates Point North,2019,Ecklonia radiata,53,1/01/2019,25.2,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S7,Magistrates Point North,2020,Ecklonia radiata,42.1,1/01/2020,-10.9,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S7,Magistrates Point North,2021,Ecklonia radiata,20.5,1/01/2021,-21.6,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S7,Magistrates Point North,2022,Ecklonia radiata,50,1/01/2022,29.5,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S7,Magistrates Point North,2023,Ecklonia radiata,33.7,1/01/2023,-16.3,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S8,Magistrates Point South,1993,Ecklonia radiata,39.73333333,1/01/1993,15.13333333,17.00339127,0.178844452,0.178844452
+Maria Island,MIR-S8,Magistrates Point South,1995,Ecklonia radiata,32.4,1/01/1995,-7.33333333,17.31857109,4.116518021,0.773843765
+Maria Island,MIR-S8,Magistrates Point South,1996,Ecklonia radiata,39.8,1/01/1996,7.4,15.55362034,0,-1.071155548
+Maria Island,MIR-S8,Magistrates Point South,1997,Ecklonia radiata,41.7,1/01/1997,1.9,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S8,Magistrates Point South,1998,Ecklonia radiata,45.7,1/01/1998,4,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S8,Magistrates Point South,1999,Ecklonia radiata,43,1/01/1999,-2.7,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S8,Magistrates Point South,2000,Ecklonia radiata,45.3,1/01/2000,2.3,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S8,Magistrates Point South,2001,Ecklonia radiata,23,1/01/2001,-22.3,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S8,Magistrates Point South,2006,Ecklonia radiata,30.9,1/01/2006,13.1,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S8,Magistrates Point South,2008,Ecklonia radiata,28.6,1/01/2008,-2.3,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S8,Magistrates Point South,2009,Ecklonia radiata,26.3,1/01/2009,-2.3,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S8,Magistrates Point South,2010,Ecklonia radiata,25.3,1/01/2010,-1,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S8,Magistrates Point South,2011,Ecklonia radiata,48.8,1/01/2011,23.5,17.64089203,3.032669067,0.533845901
+Maria Island,MIR-S8,Magistrates Point South,2012,Ecklonia radiata,39.3,1/01/2012,-9.5,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S8,Magistrates Point South,2013,Ecklonia radiata,48.9,1/01/2013,9.6,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S8,Magistrates Point South,2014,Ecklonia radiata,27.9,1/01/2014,-21,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S8,Magistrates Point South,2015,Ecklonia radiata,33.3,1/01/2015,5.4,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S8,Magistrates Point South,2016,Ecklonia radiata,31.3,1/01/2016,-2,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S8,Magistrates Point South,2017,Ecklonia radiata,30.5,1/01/2017,-0.8,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S8,Magistrates Point South,2018,Ecklonia radiata,21.4,1/01/2018,-9.1,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S8,Magistrates Point South,2019,Ecklonia radiata,35.3,1/01/2019,13.9,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S8,Magistrates Point South,2021,Ecklonia radiata,20.9,1/01/2021,-14.4,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S8,Magistrates Point South,2022,Ecklonia radiata,36.7,1/01/2022,15.8,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S8,Magistrates Point South,2023,Ecklonia radiata,21.5,1/01/2023,-15.2,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S12,Okehampton Bay,1993,Ecklonia radiata,9.4,1/01/1993,-9.4,17.00339127,0.178844452,0.178844452
+Maria Island,MIR-S12,Okehampton Bay,1995,Ecklonia radiata,11.6,1/01/1995,2.2,17.31857109,4.116518021,0.773843765
+Maria Island,MIR-S12,Okehampton Bay,1996,Ecklonia radiata,22.93333333,1/01/1996,11.33333333,15.55362034,0,-1.071155548
+Maria Island,MIR-S12,Okehampton Bay,1997,Ecklonia radiata,17.5,1/01/1997,-5.43333333,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S12,Okehampton Bay,1998,Ecklonia radiata,18.53333333,1/01/1998,1.03333333,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S12,Okehampton Bay,1999,Ecklonia radiata,6.666666667,1/01/1999,-11.86666666,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S12,Okehampton Bay,2000,Ecklonia radiata,8.8,1/01/2000,2.133333333,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S12,Okehampton Bay,2001,Ecklonia radiata,4.8,1/01/2001,-4,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S12,Okehampton Bay,2006,Ecklonia radiata,21.4,1/01/2006,17.8,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S12,Okehampton Bay,2007,Ecklonia radiata,6.6,1/01/2007,-14.8,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S12,Okehampton Bay,2008,Ecklonia radiata,11.33333333,1/01/2008,4.73333333,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S12,Okehampton Bay,2009,Ecklonia radiata,7.6,1/01/2009,-3.73333333,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S12,Okehampton Bay,2010,Ecklonia radiata,9.6,1/01/2010,2,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S12,Okehampton Bay,2011,Ecklonia radiata,19.73333333,1/01/2011,10.13333333,17.64089203,3.032669067,0.533845901
+Maria Island,MIR-S12,Okehampton Bay,2012,Ecklonia radiata,5.2,1/01/2012,-14.53333333,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S12,Okehampton Bay,2013,Ecklonia radiata,17.4,1/01/2013,12.2,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S12,Okehampton Bay,2014,Ecklonia radiata,10.66666667,1/01/2014,-6.73333333,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S12,Okehampton Bay,2015,Ecklonia radiata,22.26666667,1/01/2015,11.6,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S12,Okehampton Bay,2016,Ecklonia radiata,28.4,1/01/2016,6.13333333,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S12,Okehampton Bay,2017,Ecklonia radiata,12.93333333,1/01/2017,-15.46666667,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S12,Okehampton Bay,2018,Ecklonia radiata,20.8,1/01/2018,7.86666667,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S12,Okehampton Bay,2019,Ecklonia radiata,14.6,1/01/2019,-6.2,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S12,Okehampton Bay,2020,Ecklonia radiata,17.86666667,1/01/2020,3.26666667,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S12,Okehampton Bay,2021,Ecklonia radiata,29.2,1/01/2021,11.33333333,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S12,Okehampton Bay,2022,Ecklonia radiata,9.6,1/01/2022,-19.6,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S12,Okehampton Bay,2023,Ecklonia radiata,16.9,1/01/2023,7.3,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S3,Painted Cliffs,1993,Ecklonia radiata,0.8,1/01/1993,-8.6,17.00339127,0.178844452,0.178844452
+Maria Island,MIR-S3,Painted Cliffs,1995,Ecklonia radiata,11.2,1/01/1995,10.4,17.31857109,4.116518021,0.773843765
+Maria Island,MIR-S3,Painted Cliffs,1996,Ecklonia radiata,12,1/01/1996,0.8,15.55362034,0,-1.071155548
+Maria Island,MIR-S3,Painted Cliffs,1997,Ecklonia radiata,6.266666667,1/01/1997,-5.733333333,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S3,Painted Cliffs,1998,Ecklonia radiata,7.733333333,1/01/1998,1.466666666,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S3,Painted Cliffs,1999,Ecklonia radiata,17.2,1/01/1999,9.466666667,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S3,Painted Cliffs,2000,Ecklonia radiata,26.2,1/01/2000,9,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S3,Painted Cliffs,2001,Ecklonia radiata,3.8,1/01/2001,-22.4,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S3,Painted Cliffs,2006,Ecklonia radiata,4,1/01/2006,-0.8,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S3,Painted Cliffs,2007,Ecklonia radiata,9.9,1/01/2007,5.9,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S3,Painted Cliffs,2008,Ecklonia radiata,14.4,1/01/2008,4.5,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S3,Painted Cliffs,2009,Ecklonia radiata,6,1/01/2009,-8.4,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S3,Painted Cliffs,2010,Ecklonia radiata,8.8,1/01/2010,2.8,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S3,Painted Cliffs,2011,Ecklonia radiata,2.4,1/01/2011,-6.4,17.64089203,3.032669067,0.533845901
+Maria Island,MIR-S3,Painted Cliffs,2012,Ecklonia radiata,10.26666667,1/01/2012,7.86666667,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S3,Painted Cliffs,2013,Ecklonia radiata,9.2,1/01/2013,-1.06666667,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S3,Painted Cliffs,2014,Ecklonia radiata,7.4,1/01/2014,-1.8,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S3,Painted Cliffs,2015,Ecklonia radiata,21.6,1/01/2015,14.2,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S3,Painted Cliffs,2016,Ecklonia radiata,14,1/01/2016,-7.6,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S3,Painted Cliffs,2017,Ecklonia radiata,2.8,1/01/2017,-11.2,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S3,Painted Cliffs,2018,Ecklonia radiata,17.6,1/01/2018,14.8,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S3,Painted Cliffs,2019,Ecklonia radiata,7.6,1/01/2019,-10,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S3,Painted Cliffs,2020,Ecklonia radiata,22.7,1/01/2020,15.1,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S3,Painted Cliffs,2021,Ecklonia radiata,22,1/01/2021,-0.7,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S3,Painted Cliffs,2022,Ecklonia radiata,7,1/01/2022,-15,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S3,Painted Cliffs,2023,Ecklonia radiata,11.7,1/01/2023,4.7,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),1996,Ecklonia radiata,25.9,1/01/1996,9.8,15.55362034,0,-1.071155548
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),1997,Ecklonia radiata,31.2,1/01/1997,5.3,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),1998,Ecklonia radiata,20.3,1/01/1998,-10.9,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),1999,Ecklonia radiata,23.2,1/01/1999,2.9,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2000,Ecklonia radiata,26,1/01/2000,2.8,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2001,Ecklonia radiata,16,1/01/2001,-10,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2006,Ecklonia radiata,14.3,1/01/2006,-11.9,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2007,Ecklonia radiata,20,1/01/2007,5.7,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2008,Ecklonia radiata,9.2,1/01/2008,-10.8,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2009,Ecklonia radiata,32.5,1/01/2009,23.3,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2010,Ecklonia radiata,28.6,1/01/2010,-3.9,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2011,Ecklonia radiata,41.6,1/01/2011,13,17.64089203,3.032669067,0.533845901
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2012,Ecklonia radiata,36.5,1/01/2012,-5.1,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2013,Ecklonia radiata,46.1,1/01/2013,9.6,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2014,Ecklonia radiata,31.2,1/01/2014,-14.9,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2015,Ecklonia radiata,22.5,1/01/2015,-8.7,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2016,Ecklonia radiata,35.3,1/01/2016,12.8,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2017,Ecklonia radiata,28.6,1/01/2017,-6.7,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2018,Ecklonia radiata,15.2,1/01/2018,-13.4,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2019,Ecklonia radiata,23.5,1/01/2019,8.3,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2020,Ecklonia radiata,26.8,1/01/2020,3.3,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2021,Ecklonia radiata,45.6,1/01/2021,18.8,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2022,Ecklonia radiata,31.9,1/01/2022,-13.7,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S2,Painted Cliffs South (Four Mile Reef),2023,Ecklonia radiata,30.5,1/01/2023,-1.4,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S13,Point Holme Lookout,1996,Ecklonia radiata,21.9,1/01/1996,-2.6,15.55362034,0,-1.071155548
+Maria Island,MIR-S13,Point Holme Lookout,1997,Ecklonia radiata,37.1,1/01/1997,15.2,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S13,Point Holme Lookout,1998,Ecklonia radiata,30.7,1/01/1998,-6.4,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S13,Point Holme Lookout,1999,Ecklonia radiata,34,1/01/1999,3.3,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S13,Point Holme Lookout,2000,Ecklonia radiata,25.4,1/01/2000,-8.6,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S13,Point Holme Lookout,2001,Ecklonia radiata,16.2,1/01/2001,-9.2,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S13,Point Holme Lookout,2006,Ecklonia radiata,17.6,1/01/2006,4.8,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S13,Point Holme Lookout,2007,Ecklonia radiata,4,1/01/2007,-13.6,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S13,Point Holme Lookout,2008,Ecklonia radiata,4,1/01/2008,0,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S13,Point Holme Lookout,2009,Ecklonia radiata,19.2,1/01/2009,15.2,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S13,Point Holme Lookout,2010,Ecklonia radiata,6,1/01/2010,-13.2,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S13,Point Holme Lookout,2012,Ecklonia radiata,8,1/01/2012,2,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S13,Point Holme Lookout,2013,Ecklonia radiata,14.4,1/01/2013,6.4,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S13,Point Holme Lookout,2014,Ecklonia radiata,11.06666667,1/01/2014,-3.33333333,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S13,Point Holme Lookout,2015,Ecklonia radiata,13.33333333,1/01/2015,2.26666666,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S13,Point Holme Lookout,2016,Ecklonia radiata,7.2,1/01/2016,-6.13333333,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S13,Point Holme Lookout,2017,Ecklonia radiata,13.8,1/01/2017,6.6,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S13,Point Holme Lookout,2018,Ecklonia radiata,15.46666667,1/01/2018,1.66666667,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S13,Point Holme Lookout,2019,Ecklonia radiata,12,1/01/2019,-3.46666667,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S13,Point Holme Lookout,2020,Ecklonia radiata,13.73333333,1/01/2020,1.73333333,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S13,Point Holme Lookout,2021,Ecklonia radiata,17.6,1/01/2021,3.86666667,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S13,Point Holme Lookout,2022,Ecklonia radiata,12,1/01/2022,-5.6,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S13,Point Holme Lookout,2023,Ecklonia radiata,4.7,1/01/2023,-7.3,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S9,Point Leseuer,1993,Ecklonia radiata,20.4,1/01/1993,-17.4,17.00339127,0.178844452,0.178844452
+Maria Island,MIR-S9,Point Leseuer,1995,Ecklonia radiata,19.2,1/01/1995,-1.2,17.31857109,4.116518021,0.773843765
+Maria Island,MIR-S9,Point Leseuer,1996,Ecklonia radiata,8.2,1/01/1996,-11,15.55362034,0,-1.071155548
+Maria Island,MIR-S9,Point Leseuer,1997,Ecklonia radiata,18.8,1/01/1997,10.6,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S9,Point Leseuer,1998,Ecklonia radiata,4.266666667,1/01/1998,-14.53333333,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S9,Point Leseuer,1999,Ecklonia radiata,21.46666667,1/01/1999,17.2,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S9,Point Leseuer,2000,Ecklonia radiata,8.8,1/01/2000,-12.66666667,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S9,Point Leseuer,2001,Ecklonia radiata,12.6,1/01/2001,3.8,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S9,Point Leseuer,2006,Ecklonia radiata,4,1/01/2006,0,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S9,Point Leseuer,2007,Ecklonia radiata,5.4,1/01/2007,1.4,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S9,Point Leseuer,2008,Ecklonia radiata,8,1/01/2008,2.6,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S9,Point Leseuer,2009,Ecklonia radiata,4.8,1/01/2009,-3.2,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S9,Point Leseuer,2010,Ecklonia radiata,2.4,1/01/2010,-2.4,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S9,Point Leseuer,2011,Ecklonia radiata,2,1/01/2011,-0.4,17.64089203,3.032669067,0.533845901
+Maria Island,MIR-S9,Point Leseuer,2012,Ecklonia radiata,3.2,1/01/2012,1.2,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S9,Point Leseuer,2016,Ecklonia radiata,1.6,1/01/2016,-0.933333333,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S9,Point Leseuer,2017,Ecklonia radiata,3.7,1/01/2017,2.1,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S9,Point Leseuer,2018,Ecklonia radiata,2.533333333,1/01/2018,-1.166666667,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S9,Point Leseuer,2019,Ecklonia radiata,2.7,1/01/2019,0.166666667,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S9,Point Leseuer,2020,Ecklonia radiata,4.933333333,1/01/2020,2.233333333,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S9,Point Leseuer,2021,Ecklonia radiata,4.533333333,1/01/2021,-0.4,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S9,Point Leseuer,2022,Ecklonia radiata,9.3,1/01/2022,4.766666667,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S9,Point Leseuer,2023,Ecklonia radiata,14.2,1/01/2023,4.9,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S5,Return Point,1997,Ecklonia radiata,43.1,1/01/1997,-0.4,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S5,Return Point,1998,Ecklonia radiata,38.9,1/01/1998,-4.2,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S5,Return Point,1999,Ecklonia radiata,37.5,1/01/1999,-1.4,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S5,Return Point,2000,Ecklonia radiata,25.8,1/01/2000,-11.7,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S5,Return Point,2001,Ecklonia radiata,6.5,1/01/2001,-19.3,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S5,Return Point,2006,Ecklonia radiata,31.4,1/01/2006,29.8,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S5,Return Point,2007,Ecklonia radiata,41,1/01/2007,9.6,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S5,Return Point,2008,Ecklonia radiata,26.1,1/01/2008,-14.9,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S5,Return Point,2009,Ecklonia radiata,23.2,1/01/2009,-2.9,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S5,Return Point,2010,Ecklonia radiata,44.7,1/01/2010,21.5,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S5,Return Point,2011,Ecklonia radiata,55.9,1/01/2011,11.2,17.64089203,3.032669067,0.533845901
+Maria Island,MIR-S5,Return Point,2012,Ecklonia radiata,44.8,1/01/2012,-11.1,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S5,Return Point,2013,Ecklonia radiata,49.1,1/01/2013,4.3,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S5,Return Point,2015,Ecklonia radiata,25.73333333,1/01/2015,-23.36666667,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S5,Return Point,2016,Ecklonia radiata,13.6,1/01/2016,-12.13333333,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S5,Return Point,2017,Ecklonia radiata,26.5,1/01/2017,12.9,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S5,Return Point,2018,Ecklonia radiata,20.6,1/01/2018,-5.9,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S5,Return Point,2019,Ecklonia radiata,23.9,1/01/2019,3.3,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S5,Return Point,2020,Ecklonia radiata,29.1,1/01/2020,5.2,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S5,Return Point,2021,Ecklonia radiata,42.5,1/01/2021,13.4,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S5,Return Point,2022,Ecklonia radiata,41.1,1/01/2022,-1.4,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S5,Return Point,2023,Ecklonia radiata,43.7,1/01/2023,2.6,18.22499847,28.54451942,1.09384346
+Maria Island,MIR-S14,Spring Beach,1996,Ecklonia radiata,33.3,1/01/1996,0.7,15.55362034,0,-1.071155548
+Maria Island,MIR-S14,Spring Beach,1997,Ecklonia radiata,34.2,1/01/1997,0.9,16.80928612,0.835380554,0.438844681
+Maria Island,MIR-S14,Spring Beach,1998,Ecklonia radiata,38.7,1/01/1998,4.5,17.58357048,2.49729538,0.543844223
+Maria Island,MIR-S14,Spring Beach,1999,Ecklonia radiata,32.5,1/01/1999,-6.2,18.11806488,16.80919266,1.133844376
+Maria Island,MIR-S14,Spring Beach,2000,Ecklonia radiata,34.6,1/01/2000,2.1,17.68112946,4.716503143,0.368844986
+Maria Island,MIR-S14,Spring Beach,2001,Ecklonia radiata,15.1,1/01/2001,-19.5,18.57571411,50.16144943,1.473844528
+Maria Island,MIR-S14,Spring Beach,2002,Ecklonia radiata,21.9,1/01/2002,6.8,17.11838722,0.057689667,0.048845291
+Maria Island,MIR-S14,Spring Beach,2004,Ecklonia radiata,18.8,1/01/2004,-3.1,18.60982132,59.51989746,1.628843307
+Maria Island,MIR-S14,Spring Beach,2006,Ecklonia radiata,49,1/01/2006,30.2,17.90071297,13.3211174,1.513845444
+Maria Island,MIR-S14,Spring Beach,2007,Ecklonia radiata,19,1/01/2007,-30,18.23767853,39.99489594,2.408843994
+Maria Island,MIR-S14,Spring Beach,2008,Ecklonia radiata,35,1/01/2008,16,18.0265522,18.40959167,1.873844147
+Maria Island,MIR-S14,Spring Beach,2009,Ecklonia radiata,25.4,1/01/2009,-9.6,17.22642899,0.038845062,0.038845062
+Maria Island,MIR-S14,Spring Beach,2010,Ecklonia radiata,37.1,1/01/2010,11.7,19.09928513,74.96413422,2.178844452
+Maria Island,MIR-S14,Spring Beach,2012,Ecklonia radiata,23.33333333,1/01/2012,-13.76666667,18.31586075,54.2748909,1.633844376
+Maria Island,MIR-S14,Spring Beach,2013,Ecklonia radiata,38.3,1/01/2013,14.96666667,17.56386948,7.050357819,1.038845062
+Maria Island,MIR-S14,Spring Beach,2014,Ecklonia radiata,30.4,1/01/2014,-7.9,17.82725716,14.31956482,1.108844757
+Maria Island,MIR-S14,Spring Beach,2015,Ecklonia radiata,13.9,1/01/2015,-16.5,18.02910614,19.53147888,1.293844223
+Maria Island,MIR-S14,Spring Beach,2016,Ecklonia radiata,18.8,1/01/2016,4.9,19.82982635,180.5451965,3.258844376
+Maria Island,MIR-S14,Spring Beach,2017,Ecklonia radiata,15.1,1/01/2017,-3.7,18.42142868,47.79990768,1.973844528
+Maria Island,MIR-S14,Spring Beach,2018,Ecklonia radiata,18.5,1/01/2018,3.4,18.76696396,75.62332153,2.133844376
+Maria Island,MIR-S14,Spring Beach,2019,Ecklonia radiata,25.7,1/01/2019,7.2,18.43629074,39.68375397,1.463844299
+Maria Island,MIR-S14,Spring Beach,2020,Ecklonia radiata,35.5,1/01/2020,9.8,17.31741333,0.584604263,0.143844604
+Maria Island,MIR-S14,Spring Beach,2021,Ecklonia radiata,28.5,1/01/2021,-7,18.40732193,58.86371994,1.373844147
+Maria Island,MIR-S14,Spring Beach,2022,Ecklonia radiata,26.5,1/01/2022,-2,18.73678589,55.52103424,1.57884407
+Maria Island,MIR-S14,Spring Beach,2023,Ecklonia radiata,27.4,1/01/2023,0.9,18.22499847,28.54451942,1.09384346
+Jervis Bay,JBMP-S15,Bowen Island NW,2000,Ecklonia radiata,1.6,1/01/2000 0:00,-37.6,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S15,Bowen Island NW,2003,Ecklonia radiata,1.6,1/01/2003 0:00,0,23.68886948,66.2385025,2.43608284
+Jervis Bay,JBMP-S15,Bowen Island NW,2004,Ecklonia radiata,2.8,1/01/2004 0:00,1.2,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S15,Bowen Island NW,2005,Ecklonia radiata,20,1/01/2005 0:00,17.2,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S15,Bowen Island NW,2006,Ecklonia radiata,34,1/01/2006 0:00,14,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S15,Bowen Island NW,2007,Ecklonia radiata,10,1/01/2007 0:00,-24,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S15,Bowen Island NW,2008,Ecklonia radiata,20,1/01/2008 0:00,10,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S15,Bowen Island NW,2009,Ecklonia radiata,23.6,1/01/2009 0:00,3.6,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S15,Bowen Island NW,2012,Ecklonia radiata,29.8,1/01/2012 0:00,6.2,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S15,Bowen Island NW,2017,Ecklonia radiata,18,1/01/2017 0:00,-11.8,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S16,Bowens Island SW,2003,Ecklonia radiata,13.4,1/01/2003 0:00,9.4,23.68886948,66.2385025,2.43608284
+Jervis Bay,JBMP-S16,Bowens Island SW,2004,Ecklonia radiata,15,1/01/2004 0:00,1.6,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S16,Bowens Island SW,2005,Ecklonia radiata,10.26666667,1/01/2005 0:00,-4.73333333,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S16,Bowens Island SW,2006,Ecklonia radiata,19.6,1/01/2006 0:00,9.33333333,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S16,Bowens Island SW,2007,Ecklonia radiata,29.4,1/01/2007 0:00,9.8,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S16,Bowens Island SW,2008,Ecklonia radiata,30.2,1/01/2008 0:00,0.8,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S16,Bowens Island SW,2009,Ecklonia radiata,38.4,1/01/2009 0:00,8.2,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S16,Bowens Island SW,2012,Ecklonia radiata,29.2,1/01/2012 0:00,-9.2,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S16,Bowens Island SW,2017,Ecklonia radiata,10,1/01/2017 0:00,-19.2,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S18,Bristol Pt,2000,Ecklonia radiata,48.8,1/01/2000 0:00,5.05454545,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S18,Bristol Pt,2001,Ecklonia radiata,30.8,1/01/2001 0:00,-18,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S18,Bristol Pt,2003,Ecklonia radiata,38.4,1/01/2003 0:00,7.6,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S18,Bristol Pt,2004,Ecklonia radiata,32.7,1/01/2004 0:00,-5.7,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S18,Bristol Pt,2005,Ecklonia radiata,38.13333333,1/01/2005 0:00,5.43333333,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S18,Bristol Pt,2006,Ecklonia radiata,27.6,1/01/2006 0:00,-10.53333333,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S18,Bristol Pt,2007,Ecklonia radiata,32.8,1/01/2007 0:00,5.2,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S18,Bristol Pt,2008,Ecklonia radiata,37.6,1/01/2008 0:00,4.8,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S18,Bristol Pt,2009,Ecklonia radiata,23.2,1/01/2009 0:00,-14.4,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S18,Bristol Pt,2012,Ecklonia radiata,21.73333333,1/01/2012 0:00,-1.46666667,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S18,Bristol Pt,2017,Ecklonia radiata,14.26666667,1/01/2017 0:00,-7.46666666,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S19,Callala,2001,Ecklonia radiata,85.6,1/01/2001 0:00,-3.5,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S19,Callala,2003,Ecklonia radiata,84.3,1/01/2003 0:00,-1.3,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S19,Callala,2004,Ecklonia radiata,81.4,1/01/2004 0:00,-2.9,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S19,Callala,2005,Ecklonia radiata,89,1/01/2005 0:00,7.6,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S19,Callala,2006,Ecklonia radiata,55.9,1/01/2006 0:00,-33.1,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S19,Callala,2007,Ecklonia radiata,85.5,1/01/2007 0:00,29.6,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S19,Callala,2008,Ecklonia radiata,87.5,1/01/2008 0:00,2,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S19,Callala,2009,Ecklonia radiata,97.5,1/01/2009 0:00,10,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S19,Callala,2012,Ecklonia radiata,83.2,1/01/2012 0:00,-14.3,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S19,Callala,2017,Ecklonia radiata,69.2,1/01/2017 0:00,-14,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S24,Callala Reef West,2001,Ecklonia radiata,47.9,1/01/2001 0:00,-32.8,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S24,Callala Reef West,2003,Ecklonia radiata,75.7,1/01/2003 0:00,27.8,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S24,Callala Reef West,2004,Ecklonia radiata,69.1,1/01/2004 0:00,-6.6,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S24,Callala Reef West,2005,Ecklonia radiata,71.7,1/01/2005 0:00,2.6,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S24,Callala Reef West,2006,Ecklonia radiata,82,1/01/2006 0:00,10.3,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S24,Callala Reef West,2007,Ecklonia radiata,81.6,1/01/2007 0:00,-0.4,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S24,Callala Reef West,2008,Ecklonia radiata,68.9,1/01/2008 0:00,-12.7,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S24,Callala Reef West,2009,Ecklonia radiata,91.4,1/01/2009 0:00,22.5,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S24,Callala Reef West,2012,Ecklonia radiata,66.1,1/01/2012 0:00,-25.3,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S24,Callala Reef West,2017,Ecklonia radiata,20.7,1/01/2017 0:00,-45.4,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S1,Captains Pt,2000,Ecklonia radiata,58.66666667,1/01/2000 0:00,-1.83333333,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S1,Captains Pt,2001,Ecklonia radiata,56.66666667,1/01/2001 0:00,-2,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S1,Captains Pt,2003,Ecklonia radiata,48.13333333,1/01/2003 0:00,-8.53333334,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S1,Captains Pt,2004,Ecklonia radiata,37.73333333,1/01/2004 0:00,-10.4,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S1,Captains Pt,2005,Ecklonia radiata,74.13333333,1/01/2005 0:00,36.4,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S1,Captains Pt,2006,Ecklonia radiata,61.2,1/01/2006 0:00,-12.93333333,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S1,Captains Pt,2007,Ecklonia radiata,57.06666667,1/01/2007 0:00,-4.13333333,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S1,Captains Pt,2008,Ecklonia radiata,76,1/01/2008 0:00,18.93333333,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S1,Captains Pt,2009,Ecklonia radiata,54.26666667,1/01/2009 0:00,-21.73333333,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S1,Captains Pt,2012,Ecklonia radiata,70.66666667,1/01/2012 0:00,16.4,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S1,Captains Pt,2017,Ecklonia radiata,32.4,1/01/2017 0:00,-38.26666667,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2000,Ecklonia radiata,62.1,1/01/2000 0:00,-2.9,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2001,Ecklonia radiata,35.3,1/01/2001 0:00,-26.8,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2003,Ecklonia radiata,64.6,1/01/2003 0:00,29.3,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2004,Ecklonia radiata,65.5,1/01/2004 0:00,0.9,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2005,Ecklonia radiata,43.6,1/01/2005 0:00,-21.9,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2006,Ecklonia radiata,41.3,1/01/2006 0:00,-2.3,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2007,Ecklonia radiata,32.9,1/01/2007 0:00,-8.4,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2008,Ecklonia radiata,54.7,1/01/2008 0:00,21.8,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2009,Ecklonia radiata,49.6,1/01/2009 0:00,-5.1,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2012,Ecklonia radiata,70.7,1/01/2012 0:00,21.1,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S12,Dart Point East (Grouper Coast South),2017,Ecklonia radiata,48.8,1/01/2017 0:00,-21.9,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2000,Ecklonia radiata,53.2,1/01/2000 0:00,3.2,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2001,Ecklonia radiata,41,1/01/2001 0:00,-12.2,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2003,Ecklonia radiata,43.7,1/01/2003 0:00,2.7,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2004,Ecklonia radiata,56.5,1/01/2004 0:00,12.8,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2005,Ecklonia radiata,51.4,1/01/2005 0:00,-5.1,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2006,Ecklonia radiata,47,1/01/2006 0:00,-4.4,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2007,Ecklonia radiata,75,1/01/2007 0:00,28,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2008,Ecklonia radiata,67.2,1/01/2008 0:00,-7.8,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2009,Ecklonia radiata,65,1/01/2009 0:00,-2.2,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2012,Ecklonia radiata,54.4,1/01/2012 0:00,-10.6,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S11,Greenfield Beach Nth,2017,Ecklonia radiata,45.7,1/01/2017 0:00,-8.7,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2000,Ecklonia radiata,57.1,1/01/2000 0:00,-4.1,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2001,Ecklonia radiata,49.06666667,1/01/2001 0:00,-8.03333333,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2003,Ecklonia radiata,62.2,1/01/2003 0:00,13.13333333,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2004,Ecklonia radiata,41.9,1/01/2004 0:00,-20.3,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2005,Ecklonia radiata,58.4,1/01/2005 0:00,16.5,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2006,Ecklonia radiata,41.3,1/01/2006 0:00,-17.1,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2007,Ecklonia radiata,43.7,1/01/2007 0:00,2.4,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2008,Ecklonia radiata,47.7,1/01/2008 0:00,4,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2009,Ecklonia radiata,51.2,1/01/2009 0:00,3.5,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2012,Ecklonia radiata,26.9,1/01/2012 0:00,-24.3,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S7,Honeymoon Bay 150 m North (Bindajine Point),2017,Ecklonia radiata,57.2,1/01/2017 0:00,30.3,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2000,Ecklonia radiata,14.6,1/01/2000 0:00,-5.13333333,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2001,Ecklonia radiata,20,1/01/2001 0:00,5.4,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2004,Ecklonia radiata,26.26666667,1/01/2004 0:00,6.26666667,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2005,Ecklonia radiata,14.8,1/01/2005 0:00,-11.46666667,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2006,Ecklonia radiata,4,1/01/2006 0:00,-10.8,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2007,Ecklonia radiata,8.2,1/01/2007 0:00,4.2,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2009,Ecklonia radiata,11,1/01/2009 0:00,2.8,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2012,Ecklonia radiata,35.2,1/01/2012 0:00,24.2,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S6,Honeymoon Bay 300m South,2017,Ecklonia radiata,3.6,1/01/2017 0:00,-31.6,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S20,Husky Caravan Park,2001,Ecklonia radiata,77.5,1/01/2001 0:00,-1.1,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S20,Husky Caravan Park,2003,Ecklonia radiata,77.6,1/01/2003 0:00,0.1,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S20,Husky Caravan Park,2004,Ecklonia radiata,89.2,1/01/2004 0:00,11.6,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S20,Husky Caravan Park,2005,Ecklonia radiata,75.1,1/01/2005 0:00,-14.1,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S20,Husky Caravan Park,2006,Ecklonia radiata,67.1,1/01/2006 0:00,-8,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S20,Husky Caravan Park,2007,Ecklonia radiata,80.6,1/01/2007 0:00,13.5,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S20,Husky Caravan Park,2008,Ecklonia radiata,95.8,1/01/2008 0:00,15.2,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S20,Husky Caravan Park,2009,Ecklonia radiata,92.5,1/01/2009 0:00,-3.3,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S20,Husky Caravan Park,2012,Ecklonia radiata,65.4,1/01/2012 0:00,-27.1,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S20,Husky Caravan Park,2017,Ecklonia radiata,47.2,1/01/2017 0:00,-18.2,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2000,Ecklonia radiata,73.1,1/01/2000 0:00,37.9,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2001,Ecklonia radiata,51.9,1/01/2001 0:00,-21.2,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2003,Ecklonia radiata,51.5,1/01/2003 0:00,-0.4,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2004,Ecklonia radiata,36.3,1/01/2004 0:00,-15.2,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2005,Ecklonia radiata,48.9,1/01/2005 0:00,12.6,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2006,Ecklonia radiata,54,1/01/2006 0:00,5.1,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2007,Ecklonia radiata,47.8,1/01/2007 0:00,-6.2,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2008,Ecklonia radiata,50.8,1/01/2008 0:00,3,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2009,Ecklonia radiata,46.7,1/01/2009 0:00,-4.1,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2012,Ecklonia radiata,58.6,1/01/2012 0:00,11.9,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S9,Hyams Beach (Chinamans Reef),2017,Ecklonia radiata,32.8,1/01/2017 0:00,-25.8,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S10,Longnose Point North,2000,Ecklonia radiata,13.33333333,1/01/2000 0:00,-5.06666667,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S10,Longnose Point North,2001,Ecklonia radiata,21.73333333,1/01/2001 0:00,8.4,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S10,Longnose Point North,2003,Ecklonia radiata,27.86666667,1/01/2003 0:00,6.13333334,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S10,Longnose Point North,2004,Ecklonia radiata,24.53333333,1/01/2004 0:00,-3.33333334,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S10,Longnose Point North,2005,Ecklonia radiata,26,1/01/2005 0:00,1.46666667,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S10,Longnose Point North,2006,Ecklonia radiata,5.466666667,1/01/2006 0:00,-20.53333333,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S10,Longnose Point North,2007,Ecklonia radiata,6.5,1/01/2007 0:00,1.033333333,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S10,Longnose Point North,2008,Ecklonia radiata,13.4,1/01/2008 0:00,6.9,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S10,Longnose Point North,2009,Ecklonia radiata,17.5,1/01/2009 0:00,4.1,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S10,Longnose Point North,2012,Ecklonia radiata,30.8,1/01/2012 0:00,13.3,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S10,Longnose Point North,2017,Ecklonia radiata,22.53333333,1/01/2017 0:00,-8.26666667,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S13,Montagu Point,2000,Ecklonia radiata,34.3,1/01/2000 0:00,-5.9,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S13,Montagu Point,2001,Ecklonia radiata,43.2,1/01/2001 0:00,8.9,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S13,Montagu Point,2003,Ecklonia radiata,51.1,1/01/2003 0:00,7.9,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S13,Montagu Point,2004,Ecklonia radiata,24,1/01/2004 0:00,-27.1,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S13,Montagu Point,2005,Ecklonia radiata,37.9,1/01/2005 0:00,13.9,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S13,Montagu Point,2006,Ecklonia radiata,34.1,1/01/2006 0:00,-3.8,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S13,Montagu Point,2007,Ecklonia radiata,36.6,1/01/2007 0:00,2.5,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S13,Montagu Point,2008,Ecklonia radiata,43.73333333,1/01/2008 0:00,7.13333333,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S13,Montagu Point,2009,Ecklonia radiata,27.4,1/01/2009 0:00,-16.33333333,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S13,Montagu Point,2012,Ecklonia radiata,20.8,1/01/2012 0:00,-6.6,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S13,Montagu Point,2017,Ecklonia radiata,26.13333333,1/01/2017 0:00,5.33333333,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S17,Murrays Reef,2000,Ecklonia radiata,12.4,1/01/2000 0:00,-1.2,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S17,Murrays Reef,2001,Ecklonia radiata,20,1/01/2001 0:00,7.6,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S17,Murrays Reef,2003,Ecklonia radiata,14.5,1/01/2003 0:00,-5.5,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S17,Murrays Reef,2004,Ecklonia radiata,25.73333333,1/01/2004 0:00,11.23333333,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S17,Murrays Reef,2005,Ecklonia radiata,27.5,1/01/2005 0:00,1.76666667,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S17,Murrays Reef,2006,Ecklonia radiata,23.3,1/01/2006 0:00,-4.2,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S17,Murrays Reef,2007,Ecklonia radiata,11.46666667,1/01/2007 0:00,-11.83333333,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S17,Murrays Reef,2008,Ecklonia radiata,18.6,1/01/2008 0:00,7.13333333,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S17,Murrays Reef,2009,Ecklonia radiata,19.33333333,1/01/2009 0:00,0.73333333,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S17,Murrays Reef,2012,Ecklonia radiata,24.8,1/01/2012 0:00,5.46666667,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S17,Murrays Reef,2017,Ecklonia radiata,23.33333333,1/01/2017 0:00,-1.46666667,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S8,Plantation Point North,2000,Ecklonia radiata,64.1,1/01/2000 0:00,-12.6,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S8,Plantation Point North,2001,Ecklonia radiata,58.5,1/01/2001 0:00,-5.6,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S8,Plantation Point North,2003,Ecklonia radiata,69.9,1/01/2003 0:00,11.4,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S8,Plantation Point North,2004,Ecklonia radiata,65,1/01/2004 0:00,-4.9,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S8,Plantation Point North,2005,Ecklonia radiata,67.5,1/01/2005 0:00,2.5,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S8,Plantation Point North,2006,Ecklonia radiata,59.1,1/01/2006 0:00,-8.4,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S8,Plantation Point North,2007,Ecklonia radiata,65.6,1/01/2007 0:00,6.5,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S8,Plantation Point North,2008,Ecklonia radiata,82.9,1/01/2008 0:00,17.3,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S8,Plantation Point North,2009,Ecklonia radiata,89.9,1/01/2009 0:00,7,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S8,Plantation Point North,2012,Ecklonia radiata,60.5,1/01/2012 0:00,-29.4,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S8,Plantation Point North,2017,Ecklonia radiata,32.7,1/01/2017 0:00,-27.8,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S25,Plantation Point South,2003,Ecklonia radiata,56,1/01/2003 0:00,-16.5,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S25,Plantation Point South,2004,Ecklonia radiata,51,1/01/2004 0:00,-5,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S25,Plantation Point South,2005,Ecklonia radiata,73.2,1/01/2005 0:00,22.2,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S25,Plantation Point South,2006,Ecklonia radiata,54.5,1/01/2006 0:00,-18.7,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S25,Plantation Point South,2007,Ecklonia radiata,91,1/01/2007 0:00,36.5,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S25,Plantation Point South,2008,Ecklonia radiata,80.8,1/01/2008 0:00,-10.2,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S25,Plantation Point South,2009,Ecklonia radiata,62.8,1/01/2009 0:00,-18,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S25,Plantation Point South,2012,Ecklonia radiata,57.2,1/01/2012 0:00,-5.6,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S25,Plantation Point South,2017,Ecklonia radiata,41.6,1/01/2017 0:00,-15.6,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2004,Ecklonia radiata,11.6,1/01/2004 0:00,-16.8,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2005,Ecklonia radiata,28.93333333,1/01/2005 0:00,17.33333333,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2006,Ecklonia radiata,28.2,1/01/2006 0:00,-0.73333333,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2007,Ecklonia radiata,12.26666667,1/01/2007 0:00,-15.93333333,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2008,Ecklonia radiata,20.4,1/01/2008 0:00,8.13333333,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2009,Ecklonia radiata,14,1/01/2009 0:00,-6.4,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2012,Ecklonia radiata,12,1/01/2012 0:00,-2,23.7974987,45.73808289,1.926084518
+Jervis Bay,JBMP-S2,The Docks 1 The Gulch,2017,Ecklonia radiata,20,1/01/2017 0:00,8,24.73209572,91.29174805,3.021083832
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2000,Ecklonia radiata,2.4,1/01/2000 0:00,1.8,24.306427,76.84458923,2.661085129
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2001,Ecklonia radiata,4,1/01/2001 0:00,1.6,23.68886948,66.2385025,2.026082993
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2003,Ecklonia radiata,9.4,1/01/2003 0:00,5.4,23.46080589,30.7644558,2.43608284
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2004,Ecklonia radiata,10,1/01/2004 0:00,0.6,22.83517265,7.407352448,0.971084595
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2005,Ecklonia radiata,10,1/01/2005 0:00,0,23.08517838,8.828619003,0.821084976
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2006,Ecklonia radiata,24,1/01/2006 0:00,14,23.88160706,46.92115021,2.341085434
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2007,Ecklonia radiata,1.6,1/01/2007 0:00,-22.4,24.08160782,47.9592247,2.411085129
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2008,Ecklonia radiata,12,1/01/2008 0:00,10.4,22.86435509,7.081684113,0.66608429
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2009,Ecklonia radiata,13.4,1/01/2009 0:00,1.4,22.23435402,0.493253708,0.246084213
+Jervis Bay,JBMP-S3,The Docks 2 Inner Tubes,2012,Ecklonia radiata,5.6,1/01/2012 0:00,-7.8,23.7974987,45.73808289,1.926084518
+Jurien,JMP-S5,Escape Island,2000,Ecklonia radiata,56.4,1/01/2000 0:00,-13,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S5,Escape Island,2003,Ecklonia radiata,46.2,1/01/2003 0:00,-10.2,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S5,Escape Island,2004,Ecklonia radiata,60.9,1/01/2004 0:00,14.7,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S5,Escape Island,2006,Ecklonia radiata,56.4,1/01/2006 0:00,-4.5,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S5,Escape Island,2016,Ecklonia radiata,31.2,1/01/2016 0:00,-20.3,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S5,Escape Island,2018,Ecklonia radiata,45.5,1/01/2018 0:00,14.3,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S5,Escape Island,2021,Ecklonia radiata,43.46666667,1/01/2021 0:00,-2.03333333,23.91559029,70.60350037,1.884355545
+Jurien,JMP-S25,Fishermans Island,2000,Ecklonia radiata,3.2,1/01/2000 0:00,1.866666667,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S25,Fishermans Island,2003,Ecklonia radiata,2.4,1/01/2003 0:00,-0.8,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S25,Fishermans Island,2004,Ecklonia radiata,7.6,1/01/2004 0:00,5.2,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S25,Fishermans Island,2006,Ecklonia radiata,4.8,1/01/2006 0:00,-2.8,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S25,Fishermans Island,2009,Ecklonia radiata,3.8,1/01/2009 0:00,-1,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S25,Fishermans Island,2016,Ecklonia radiata,5.333333333,1/01/2016 0:00,2.533333333,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S25,Fishermans Island,2018,Ecklonia radiata,3.2,1/01/2018 0:00,-2.133333333,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S25,Fishermans Island,2021,Ecklonia radiata,15.8,1/01/2021 0:00,12.6,23.91559029,70.60350037,1.884355545
+Jurien,JMP-S8,Fishermans Island 1,2004,Ecklonia radiata,13.6,1/01/2004 0:00,3.4,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S8,Fishermans Island 1,2006,Ecklonia radiata,17.6,1/01/2006 0:00,4,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S8,Fishermans Island 1,2009,Ecklonia radiata,10,1/01/2009 0:00,-7.6,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S8,Fishermans Island 1,2012,Ecklonia radiata,2.6,1/01/2012 0:00,-7.4,25.44666672,219.2330475,5.52768898
+Jurien,JMP-S8,Fishermans Island 1,2018,Ecklonia radiata,25.6,1/01/2018 0:00,23.2,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S8,Fishermans Island 1,2021,Ecklonia radiata,15.4,1/01/2021 0:00,-10.2,23.91559029,70.60350037,1.884355545
+Jurien,JMP-S9,Fishermans Island 2,2000,Ecklonia radiata,8.8,1/01/2000 0:00,0.8,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S9,Fishermans Island 2,2006,Ecklonia radiata,3.2,1/01/2006 0:00,-0.6,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S9,Fishermans Island 2,2009,Ecklonia radiata,18.8,1/01/2009 0:00,15.6,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S9,Fishermans Island 2,2012,Ecklonia radiata,5.2,1/01/2012 0:00,-13.6,25.44666672,219.2330475,5.52768898
+Jurien,JMP-S19,Gazely Reef,2000,Ecklonia radiata,41.2,1/01/2000 0:00,-1.4,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S19,Gazely Reef,2003,Ecklonia radiata,40.6,1/01/2003 0:00,-0.6,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S19,Gazely Reef,2004,Ecklonia radiata,42.13333333,1/01/2004 0:00,1.53333333,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S19,Gazely Reef,2006,Ecklonia radiata,24.1,1/01/2006 0:00,-18.03333333,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S19,Gazely Reef,2009,Ecklonia radiata,8.8,1/01/2009 0:00,-15.3,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S19,Gazely Reef,2016,Ecklonia radiata,38.2,1/01/2016 0:00,3.7,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S19,Gazely Reef,2018,Ecklonia radiata,57.4,1/01/2018 0:00,19.2,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S6,Inner Seaward Ledge,2000,Ecklonia radiata,39.4,1/01/2000 0:00,-22.5,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S6,Inner Seaward Ledge,2003,Ecklonia radiata,57.3,1/01/2003 0:00,17.9,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S6,Inner Seaward Ledge,2004,Ecklonia radiata,72.5,1/01/2004 0:00,15.2,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S6,Inner Seaward Ledge,2006,Ecklonia radiata,65.9,1/01/2006 0:00,-6.6,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S6,Inner Seaward Ledge,2009,Ecklonia radiata,78.6,1/01/2009 0:00,12.7,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S6,Inner Seaward Ledge,2012,Ecklonia radiata,16.4,1/01/2012 0:00,-62.2,25.44666672,219.2330475,5.52768898
+Jurien,JMP-S6,Inner Seaward Ledge,2016,Ecklonia radiata,52.53333333,1/01/2016 0:00,40.03333333,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S6,Inner Seaward Ledge,2018,Ecklonia radiata,63.6,1/01/2018 0:00,11.06666667,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S22,Inner Seven Foot Reef,2000,Ecklonia radiata,21.4,1/01/2000 0:00,-5,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S22,Inner Seven Foot Reef,2003,Ecklonia radiata,26.4,1/01/2003 0:00,5,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S22,Inner Seven Foot Reef,2004,Ecklonia radiata,20.4,1/01/2004 0:00,-6,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S22,Inner Seven Foot Reef,2006,Ecklonia radiata,29,1/01/2006 0:00,8.6,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S22,Inner Seven Foot Reef,2016,Ecklonia radiata,59.7,1/01/2016 0:00,35.2,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S22,Inner Seven Foot Reef,2018,Ecklonia radiata,53.5,1/01/2018 0:00,-6.2,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S7,Juddy Reef,2000,Ecklonia radiata,43.6,1/01/2000 0:00,-5,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S7,Juddy Reef,2003,Ecklonia radiata,55.5,1/01/2003 0:00,11.9,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S7,Juddy Reef,2004,Ecklonia radiata,63.4,1/01/2004 0:00,7.9,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S7,Juddy Reef,2006,Ecklonia radiata,42.4,1/01/2006 0:00,-21,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S7,Juddy Reef,2016,Ecklonia radiata,31.7,1/01/2016 0:00,-11.23333333,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S7,Juddy Reef,2018,Ecklonia radiata,51.06666667,1/01/2018 0:00,19.36666667,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S35,Midshore Boullanger Island,2006,Ecklonia radiata,0,1/01/2006 0:00,0,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S35,Midshore Boullanger Island,2016,Ecklonia radiata,0,1/01/2016 0:00,0,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S35,Midshore Boullanger Island,2018,Ecklonia radiata,0,1/01/2018 0:00,0,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S35,Midshore Boullanger Island,2021,Ecklonia radiata,0,1/01/2021 0:00,0,23.91559029,70.60350037,1.884355545
+Jurien,JMP-S26,Outer Green Islands,2006,Ecklonia radiata,27.9,1/01/2006 0:00,-8.8,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S26,Outer Green Islands,2009,Ecklonia radiata,28.6,1/01/2009 0:00,0.7,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S26,Outer Green Islands,2012,Ecklonia radiata,15,1/01/2012 0:00,-13.6,25.44666672,219.2330475,5.52768898
+Jurien,JMP-S26,Outer Green Islands,2016,Ecklonia radiata,26.5,1/01/2016 0:00,13.1,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S26,Outer Green Islands,2018,Ecklonia radiata,15.3,1/01/2018 0:00,-11.2,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S4,Outer Rocks (North) 2,2000,Ecklonia radiata,30,1/01/2000 0:00,-1,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S4,Outer Rocks (North) 2,2003,Ecklonia radiata,41.8,1/01/2003 0:00,11.8,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S4,Outer Rocks (North) 2,2004,Ecklonia radiata,53.5,1/01/2004 0:00,11.7,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S4,Outer Rocks (North) 2,2006,Ecklonia radiata,51.9,1/01/2006 0:00,-1.6,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S4,Outer Rocks (North) 2,2009,Ecklonia radiata,47.4,1/01/2009 0:00,-4.5,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S4,Outer Rocks (North) 2,2012,Ecklonia radiata,33.2,1/01/2012 0:00,-14.2,25.44666672,219.2330475,5.52768898
+Jurien,JMP-S4,Outer Rocks (North) 2,2016,Ecklonia radiata,43.73333333,1/01/2016 0:00,3.93333333,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S4,Outer Rocks (North) 2,2018,Ecklonia radiata,85.6,1/01/2018 0:00,41.86666667,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2000,Ecklonia radiata,41.2,1/01/2000 0:00,-3.9,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2003,Ecklonia radiata,45.3,1/01/2003 0:00,4.1,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2004,Ecklonia radiata,61.9,1/01/2004 0:00,16.6,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2006,Ecklonia radiata,61.06666667,1/01/2006 0:00,-0.83333333,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2016,Ecklonia radiata,59.2,1/01/2016 0:00,28.6,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2018,Ecklonia radiata,72.8,1/01/2018 0:00,13.6,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S3,"Outer Rocks, Inner Coffins",2021,Ecklonia radiata,22.13333333,1/01/2021 0:00,-50.66666667,23.91559029,70.60350037,1.884355545
+Jurien,JMP-S42,Outer Seaward Ledge,2006,Ecklonia radiata,38.9,1/01/2006 0:00,0.5,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S42,Outer Seaward Ledge,2016,Ecklonia radiata,16,1/01/2016 0:00,4.1,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S42,Outer Seaward Ledge,2018,Ecklonia radiata,40.4,1/01/2018 0:00,24.4,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S42,Outer Seaward Ledge,2021,Ecklonia radiata,26.4,1/01/2021 0:00,-14,23.91559029,70.60350037,1.884355545
+Jurien,JMP-S23,Sams Reef,2000,Ecklonia radiata,28,1/01/2000 0:00,-2.66666667,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S23,Sams Reef,2003,Ecklonia radiata,31.5,1/01/2003 0:00,3.5,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S23,Sams Reef,2004,Ecklonia radiata,23.2,1/01/2004 0:00,-8.3,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S23,Sams Reef,2006,Ecklonia radiata,37.5,1/01/2006 0:00,14.3,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S23,Sams Reef,2009,Ecklonia radiata,35.3,1/01/2009 0:00,-2.2,24.36711121,81.9091568,2.654356003
+Jurien,JMP-S23,Sams Reef,2016,Ecklonia radiata,36.9,1/01/2016 0:00,-7,23.27744293,25.75051498,1.321022034
+Jurien,JMP-S23,Sams Reef,2018,Ecklonia radiata,24.7,1/01/2018 0:00,-12.2,22.84000015,8.417106628,0.964355469
+Jurien,JMP-S2,Sandland Island,2000,Ecklonia radiata,3.6,1/01/2000 0:00,-4.4,23.89884949,62.66629028,2.524354935
+Jurien,JMP-S2,Sandland Island,2003,Ecklonia radiata,0.4,1/01/2003 0:00,-3.2,23.57204247,36.34899139,1.824356079
+Jurien,JMP-S2,Sandland Island,2004,Ecklonia radiata,7.066666667,1/01/2004 0:00,6.666666667,22.50045967,4.514575958,1.114355087
+Jurien,JMP-S2,Sandland Island,2006,Ecklonia radiata,4,1/01/2006 0:00,-3.066666667,23.43354797,19.35628891,2.054353714
+Jurien,JMP-S2,Sandland Island,2018,Ecklonia radiata,26.4,1/01/2018 0:00,14.4,22.84000015,8.417106628,0.964355469
+Kalbarri,,,2005,Ecklonia radiata,94.72759206,1/01/2005,5.09665859,24.59857368,,
+Kalbarri,,,2007,Ecklonia radiata,94.90333993,1/01/2007,10.54481588,24.32320786,,
+Kalbarri,,,2009,Ecklonia radiata,79.78910315,1/01/2009,-15.11423678,25.02348709,,
+Kalbarri,,,2010,Ecklonia radiata,89.80667986,1/01/2010,10.01757671,23.98439217,,
+Kalbarri,,,2012,Ecklonia radiata,0,1/01/2012,-89.80667986,27.01087189,,
+Kalbarri,,,2013,Ecklonia radiata,0,1/01/2013,0,25.34656906,,
