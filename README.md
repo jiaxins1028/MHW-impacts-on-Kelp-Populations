@@ -16,7 +16,7 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 | File | Description |
 |-----:|---------------|
 | `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of Ecklonia radiata for the four locations, including the corresponding MHW metrics (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
-| `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST (Output of `model_3pop.ipynb`)|
+| `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST (Output of `model_4pop.ipynb`)|
 | `dhdmodel_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and cumulative intensity for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `dtdtmodel_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `er_3pop_site.csv` | Dataset of Ecklonia radiata under averaged at site level in Jurien, Jervis Bay, and Maria Island (Output of `clean_kelp_data_surveyid.R`)|
