@@ -88,7 +88,7 @@ p1/p2 + plot_layout(heights = c(3, 1))
 
 
 # mark realised Tmax ------------------------------------------------------
-nc_sst <- nc_open("real_sst_lab_tmax.nc")
+nc_sst <- nc_open("OBIS_kelp_sst.nc")
 
 sst <- ncvar_get(nc_sst, "sst")
 lat <- ncvar_get(nc_sst, "lat")
@@ -273,6 +273,7 @@ p2
 
 p_final = p1/p2 + plot_layout(heights = c(3, 1))
 p_final
+
 
 
 
