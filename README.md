@@ -15,17 +15,24 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 ## Data files
 | File | Description |
 |-----:|---------------|
-| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of Ecklonia radiata at each site of the four locations, including the corresponding MHW metrics (Hobday et al., 2016)|
+| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of Ecklonia radiata for the four locations, including the corresponding MHW metrics (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST (Output of `model_3pop.ipynb`)|
-| `er_atrc_id.csv` | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at survey_id level after quality control. The identical survey_id represents a survey conducted on the same transect. (Output of `clean_kelp_data_surveyid.R`) |
+| `dhdmodel_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and cumulative intensity for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
+| `dtdtmodel_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `er_3pop_site.csv` | Dataset of Ecklonia radiata under averaged at site level in Jurien, Jervis Bay, and Maria Island (Output of `clean_kelp_data_surveyid.R`)|
+| `er_atrc_id.csv` | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at survey_id level after quality control. The identical survey_id represents a survey conducted on the same transect. (Output of `clean_kelp_data_surveyid.R`) |
+| `er_atrc_site.csv` | Dataset of Ecklonia radiata under Australian Temperate Reef Collaboration at site level after quality control. (Output of `clean_kelp_data_surveyid.R`) |
+| `inten_max_model_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and maximum intensity for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `kalbarri_abundance.csv` | Dataset of the location-averaged Ecklonia radiata canopy cover in Kalbarri extracted from Wernberg et al. (2016a) |
+| `model_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and absolute temperature for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
+| `dtdtmodel_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 
 ## Code files
 | File | Description |
 |-----:|---------------|
 | `clean_kelp_data_survey_id.R` | Fixing the recording-only-presence problem of the raw kelp cover data, and averaging the data into survey_id and site level |
 | `mhw_kelp_detection.ipynb` | Calculating summer time temperature and MHW metrics for each site and year of kelp surveys, conducting GLMM analysis |
+| `mhw_kelp_kalbarri_detection.ipynb` | Calculating summer time temperature and MHW metrics for the location-averaged kelp surveys in Kalbarri (Wernberg et al. 2016a), conducting GLM analysis |
 | `mhw_kelp_timeseries.ipynb` | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories |
 | `model_3pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Plotting the GLMM results, together with the SST climatological means across the OBIS distribution of Ecklonia radiata |
 | `downsample_sensitivity_test.ipynb` | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
