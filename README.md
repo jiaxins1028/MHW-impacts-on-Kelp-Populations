@@ -26,6 +26,8 @@ Data and Code for the research of the relationship between marine heatwave (MHW)
 | `kalbarri_abundance.csv` | Dataset of the location-averaged Ecklonia radiata canopy cover in Kalbarri extracted from Wernberg et al. (2016a) |
 | `model_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and absolute temperature for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `dtdtmodel_change_relationship.csv` | GLMM model output of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
+| `populations_TPC.csv` | Thermal performance data from experiments by Wernberg et al. (2016) and Britton et al. (2024) |
+
 
 ## Code files
 | File | Description |
