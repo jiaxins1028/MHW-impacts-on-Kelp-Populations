@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/759275381.svg)](https://doi.org/10.5281/zenodo.15009284)
 # MHW-impacts-on-Kelp-Populations
-Data and Code for the research of the relationship between marine heatwave (MHW) and long-term observational kelp in different populations. MHW calculation uses https://github.com/coecms/xmhw.
+Data and Code for the research of the relationship between marine heatwave (MHW) and long-term observational kelp in different populations. Raw species and  sea surface temperature (sst) datasets are large but easy to be downloaded through the providers' links below. MHW calculation uses https://github.com/coecms/xmhw.
 
 | Raw data | Source |
 |-----:|---------------|
