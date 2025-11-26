@@ -27,8 +27,8 @@ theme_format <- theme_bw()+
 # import data -------------------------------------------------------------
 ### Raw NRMN seaweed data can be downloaded from Raw data and instructions can be accessed from 
 ### https://catalogue-imos.aodn.org.au/geonetwork/srv/eng/catalog.search#/metadata/ec424e4f-0f55-41a5-a3f2-726bc4541947
-
-alg.rls<-read.csv("...") #import seaweed data 
+### Read `rawdata_download_use.md`
+alg.rls<-read.csv("er_atrc.csv") #import seaweed data 
 
 ## convert to percentage number
 alg.rls <- mutate(alg.rls,percentage=round(total/50*100,2))  
@@ -104,4 +104,5 @@ quad.loca <-ddply(quad.site,c("location","survey_year","taxon"),summarise, surve
 
 # neat data into csv ------------------------------------------------------
 write.table(quad.id, "kelp/er_atrc_id.csv", sep = ",", row.names = FALSE, col.names = TRUE) # change to site if needed
+
 
