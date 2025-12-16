@@ -19,8 +19,8 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 ## Data files
 | File | Description |
 |-----:|---------------|
-| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of *Ecklonia radiata* for the four locations, including the corresponding MHW metrics (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
-| `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST (Output of `model_4pop.ipynb`)|
+| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of *Ecklonia radiata* for the four locations, including the corresponding MHW metrics, including columns of study locations, sites, survey years, species name, kelp cover percentages, absolute kelp cover change, and corresponding summer temperature and MHW metrics (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
+| `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST, including the location coordinates and the occurrence frequency  (Output of `model_4pop.ipynb`)|
 | `dhdmodel_change_relationship.csv` | Modelling results of the change in canopy cover of Ecklonia radiata and cumulative intensity for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `dtdtmodel_change_relationship.csv` | Modelling results of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `er_3pop_site.csv` | Dataset of Ecklonia radiata under averaged at site level in Jurien, Jervis Bay, and Maria Island (Output of `clean_kelp_data_surveyid.R`)|
@@ -30,7 +30,7 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 | `kalbarri_abundance.csv` | Dataset of the location-averaged Ecklonia radiata canopy cover in Kalbarri extracted from Wernberg et al. (2016a) |
 | `model_change_relationship.csv` | Modelling results of the change in canopy cover of Ecklonia radiata and absolute temperature for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `dtdtmodel_change_relationship.csv` | Modelling results of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
-| `populations_TPC.csv` | Thermal performance data from experiments by Wernberg et al. (2016) and Britton et al. (2024) |
+| `populations_TPC.csv` | Thermal performance data from experiments by Wernberg et al. (2016) and Britton et al. (2024), including locations, coordinates, temperature, and species response (net photosynthesis) |
 
 
 ## Code files
@@ -43,6 +43,13 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 | `model_4pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Figure 2 is produced in the last cell. |
 | `downsample_sensitivity_test.ipynb` | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
 | `tpc_review.R` | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024). Figure 3 is produced at line 274. |
+
+### Note
+Several analyses are implemented as Jupyter notebooks (`.ipynb`). To run these notebooks:
+
+1. Ensure Python (≥3.9) is installed.
+2. Install required packages (e.g. via conda or pip)
+3. Launch Jupyter, and open the desired `.ipynb` file and run cells sequentially from top to bottom.
 
 # References
 Britton, D, Layton, C, Mundy, CN, Brewer, EA, Gaitan-Espitia, JD, Beardall, J, Raven, JA & Hurd, CL 2024, 'Cool-edge populations of the kelp Ecklonia radiata under global ocean change scenarios: strong sensitivity to ocean warming but little effect of ocean acidification', Proc Biol Sci, vol. 291, no. 2015, p. 20232253.
