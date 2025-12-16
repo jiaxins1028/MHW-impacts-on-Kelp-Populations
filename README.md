@@ -39,8 +39,8 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 | `clean_kelp_data_survey_id.R` | Fixing the recording-only-presence problem of the raw kelp cover data, and averaging the data into survey_id and site level |
 | `mhw_kelp_detection.ipynb` | Calculating summer time temperature and MHW metrics for each site and year of kelp surveys, conducting GLMM analysis |
 | `mhw_kelp_kalbarri_detection.ipynb` | Calculating summer time temperature and MHW metrics for the location-averaged kelp surveys in Kalbarri (Wernberg et al. 2016a), conducting GLM analysis |
-| `mhw_kelp_timeseries.ipynb` | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories |
-| `model_4pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Plotting the GLMM results |
+| `mhw_kelp_timeseries.ipynb` | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories. |
+| `model_4pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Figure 2 is produced in the last cell. |
 | `downsample_sensitivity_test.ipynb` | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
 | `tpc_review.R` | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024). Figure 3 is produced at line 274. |
 
