@@ -48,7 +48,7 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 Several analyses are implemented as Jupyter notebooks (`.ipynb`). To run these notebooks:
 
 1. Ensure Python (≥3.9) is installed.
-2. Install required packages (e.g. via conda or pip)
+2. Install required packages included in the scripts (e.g. via conda or pip)
 3. Launch Jupyter, and open the desired `.ipynb` file and run cells sequentially from top to bottom.
 
 # References
