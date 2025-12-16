@@ -19,7 +19,7 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 ## Data files
 | File | Description |
 |-----:|---------------|
-| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of Ecklonia radiata for the four locations, including the corresponding MHW metrics (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
+| `4pop_change_rawdata.csv` | Dataset of the change in canopy cover of *Ecklonia radiata* for the four locations, including the corresponding MHW metrics (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `OBIS_ER_distribution.csv` | Dataset of the Ecklonia radiata distribution and occurrence from OBIS, which were regrided into 1/4 degree to match the spatial resolution of OISST (Output of `model_4pop.ipynb`)|
 | `dhdmodel_change_relationship.csv` | Modelling results of the change in canopy cover of Ecklonia radiata and cumulative intensity for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
 | `dtdtmodel_change_relationship.csv` | Modelling results of the change in canopy cover of Ecklonia radiata and temperature tendency for the four locations  (Output of `mhw_kelp_detection.ipynb` and `mhw_kelp_kalbarri_detection.ipynb`)|
@@ -42,7 +42,7 @@ MHW calculations are performed using xmhw: https://github.com/coecms/xmhw.
 | `mhw_kelp_timeseries.ipynb` | Plotting timeseries of summer-time temperature, annual abundance of kelp, and MHW categories |
 | `model_4pop.ipynb` | Calculating the SST seasonal climatology for each OBIS location of Ecklonia; Plotting the GLMM results |
 | `downsample_sensitivity_test.ipynb` | Sensitivity test of the GLMM regression for kelp change slope patterns across locations by downsampling data |
-| `tpc_review.R` | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024) |
+| `tpc_review.R` | Constructing thermal performance curve and temperature limits for 4 locations from Wernberg et al. (2016) and Britton et al. (2024). Figure 3 is produced at line 274. |
 
 # References
 Britton, D, Layton, C, Mundy, CN, Brewer, EA, Gaitan-Espitia, JD, Beardall, J, Raven, JA & Hurd, CL 2024, 'Cool-edge populations of the kelp Ecklonia radiata under global ocean change scenarios: strong sensitivity to ocean warming but little effect of ocean acidification', Proc Biol Sci, vol. 291, no. 2015, p. 20232253.
